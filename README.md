@@ -1,7 +1,7 @@
 
 # [ECCV 2026] PixelU: A U-Shaped Transformer for Efficient End-to-End Pixel Diffusion
 
-<!-- [![Paper](https://img.shields.io/badge/Paper-ArXiv-red)](https://arxiv.org/abs/2506.23088) -->
+[![Paper](https://img.shields.io/badge/Paper-ArXiv-red)](https://arxiv.org/abs/2606.27760)
 
 <p align="center">
   <img src="asset/visual.jpg" width="100%">
